@@ -23,42 +23,7 @@
       "type": "group",
       "minimumMultiplicity": "0",
       "maximumMultiplicity": "1",
-      "concept": [
-        {
-          "name": "",
-          "mro": "",
-          "description": "",
-          "valueSets": "",
-          "implementationGuidance": "",
-          "informationType": "",
-          "minimumMultiplicity": "",
-          "maximumMultiplicity": "",
-          "derivedFrom": "",
-          "isComponent": false,
-          "concept": [
-            {
-              "name": "",
-              "mro": "",
-              "description": "<p><br></p>",
-              "valueSets": [],
-              "implementationGuidance": "<p><br></p>",
-              "informationType": "",
-              "minimumMultiplicity": "",
-              "maximumMultiplicity": "",
-              "derivedFrom": "",
-              "isComponent": false,
-              "concept": [],
-              "type": "item",
-              "valueDomain": [
-                {
-                  "type": ""
-                }
-              ],
-              "relationshipType": "specialisation"
-            }
-          ]
-        }
-      ],
+      "concept": [],
       "derivedFrom": "",
       "valueDomain": [
         {

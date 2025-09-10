@@ -12,26 +12,5 @@
       "id": "1-build.0.1"
     }
   ],
-  "concept": [
-    {
-      "name": "Item",
-      "mro": "M",
-      "description": "<p><br></p>",
-      "valueSets": [],
-      "implementationGuidance": "<p><br></p>",
-      "informationType": "Record",
-      "type": "group",
-      "minimumMultiplicity": "0",
-      "maximumMultiplicity": "1",
-      "concept": [],
-      "derivedFrom": "",
-      "valueDomain": [
-        {
-          "type": ""
-        }
-      ],
-      "relationshipType": "specialisation",
-      "isComponent": false
-    }
-  ]
+  "concept": []
 }

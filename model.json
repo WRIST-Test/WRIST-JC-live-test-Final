@@ -61,15 +61,22 @@
         {
           "name": "",
           "mro": "",
-          "description": "",
-          "valueSets": "",
-          "implementationGuidance": "",
+          "description": "<p>test 2</p>",
+          "valueSets": [],
+          "implementationGuidance": "<p><br></p>",
           "informationType": "",
           "minimumMultiplicity": "",
           "maximumMultiplicity": "",
           "derivedFrom": "",
           "isComponent": false,
-          "concept": []
+          "concept": [],
+          "type": "item",
+          "valueDomain": [
+            {
+              "type": ""
+            }
+          ],
+          "relationshipType": "specialisation"
         }
       ],
       "derivedFrom": "",

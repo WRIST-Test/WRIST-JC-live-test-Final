@@ -16,11 +16,11 @@
     {
       "name": "Item",
       "mro": "M",
-      "description": "",
-      "valueSets": "",
-      "implementationGuidance": "",
+      "description": "<p><br></p>",
+      "valueSets": [],
+      "implementationGuidance": "<p><br></p>",
       "informationType": "Record",
-      "type": "item",
+      "type": "group",
       "minimumMultiplicity": "0",
       "maximumMultiplicity": "1",
       "concept": [
@@ -37,7 +37,15 @@
           "isComponent": false,
           "concept": []
         }
-      ]
+      ],
+      "derivedFrom": "",
+      "valueDomain": [
+        {
+          "type": ""
+        }
+      ],
+      "relationshipType": "specialisation",
+      "isComponent": false
     }
   ]
 }
